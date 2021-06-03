@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Hoài à !',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao  cứ đi nhầm đường
+    Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Hì',
@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao  lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu  nhiều nhiều 😘😘',
+    mess: 'Anh biết mà 🥰. Yêu Hoài nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h tôi qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
